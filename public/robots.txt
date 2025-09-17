@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://compresspdf.co.za/sitemap.xml
+Sitemap: https://signpdf.co.za/sitemap.xml
